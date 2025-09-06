@@ -1,4 +1,4 @@
-# Pet Classification with CNNs 🐶 🐱 .. 
+# Pet Classification with CNNs 🐶 🐱
 
 This project was developed as part of the *Image Processing and Computer Vision* exam using **PyTorch**.  
 The task was to classify pets from the [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/) with two different approaches:  
